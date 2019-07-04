@@ -9,4 +9,4 @@
 ### What is Serverless Development?
 
 Traditional Web Hosting
-![Traditional Web Hosting](image\TraditionalWebHosting.png)
+![Traditional Web Hosting](image/TraditionalWebHosting.png)
