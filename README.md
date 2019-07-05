@@ -3,6 +3,7 @@
 
 ## Table of Contents
 * What is Serverless Development?
+* API Gateway
 
 
 ### What is Serverless Development?
