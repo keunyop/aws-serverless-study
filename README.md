@@ -6,14 +6,14 @@
 - [What is Serverless Development?](#What-is-Serverless-Development?)
 - [Why AWS?](#Why-AWS?)
 - [Core Serverless Services](#Core-Serverless-Services)
-
+- [What is API Gateway?](#What-is-API-Gateway?)
 
 ---
 
 ## Course Structure
 1. [What is Serverless Development](#What-is-Serverless-Development?)
 2. [Core Serverless Services](#Core-Serverless-Services)
-3. Business Logic with **Lambda** and **API Gateway**
+3. [Business Logic with **Lambda** and **API Gateway**](#Creating-an-API-with-API-Gateway-&-AWS-Lambda)
 4. Data Storage with **DynamoDB**
 5. Authentication with **Cognito**
 6. Content Delivery & Hosting with **S3**, **CloudFront** and **Route53**
@@ -68,3 +68,9 @@
 - Cognito - https://aws.amazon.com/cognito/?nc2=h_m1
 - Route 53 - https://aws.amazon.com/route53/?nc2=h_m1
 - CloudFront - https://aws.amazon.com/cloudfront/?nc2=h_m1
+
+---
+
+## Creating an API with API Gateway & AWS Lambda
+
+## What is API Gateway?
