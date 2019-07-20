@@ -7,6 +7,7 @@
 - [Why AWS?](#Why-AWS?)
 - [Core Serverless Services](#Core-Serverless-Services)
 - [What is API Gateway?](#What-is-API-Gateway?)
+- [What is AWS Lambda?](#What-is-AWS-Lambda?)
 
 ---
 
@@ -74,3 +75,16 @@
 ## Creating an API with API Gateway & AWS Lambda
 
 ## What is API Gateway?
+![How it works](image/HowItWorks.png)
+
+- API Gateway **Overview** - https://aws.amazon.com/api-gateway
+- API Gateway **Developer Documentation** - https://aws.amazon.com/documentation/apiga
+
+## What is AWS Lambda?
+
+On-demand Computing
+
+![How it works](image/LambdaHowItWorks.png)
+
+- AWS Lambda **Overview** - https://aws.amazon.com/lambda/
+- AWS Lambda **Developer Documentation** - http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
