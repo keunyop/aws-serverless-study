@@ -53,7 +53,6 @@
 
 ## Core Serverless Services
 
-### Which Services Do We Need?
 ![Which Services Do We Need?](image/WhichServicesDoWeNeed.png)
 
 ### For Back-end...
