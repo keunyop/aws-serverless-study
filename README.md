@@ -23,7 +23,7 @@
 
 ## What is Serverless Development?
 
-### Traditional Web Hosting
+### ■ Traditional Web Hosting
 ![Traditional Web Hosting](image/TraditionalWebHosting.png)
 
 
@@ -34,14 +34,15 @@
 - Over or underprovision
 - Keep OS & software updared
 
-### Serverless Apps
+### ■ Serverless Apps
 ![Serverless Apps](image/ServerlessApps.png)
 
-### Traditional VS. Serverless
+### ■ Traditional VS. Serverless
 ![Traditional VS. Serverless](image/TraditionalVsServerless.png)
 
 ## Why AWS?
-![Why AWS?](image/WhyAWS.png)
+
+(Microsoft Azure, Google Cloud Platform)
 
 - Market Leader
 - Most Serverless Services
