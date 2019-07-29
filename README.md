@@ -2,22 +2,22 @@
 
 
 ## Table of Contents
-- [Course Structure](#Course-Structure)
+- [Course 순서](#Course-순서)
 - [Serverless 란?](#Serverless-란?)
 - [Why AWS?](#Why-AWS?)
-- [Core Serverless Services](#Core-Serverless-Services)
-- [What is API Gateway?](#What-is-API-Gateway?)
-- [What is AWS Lambda?](#What-is-AWS-Lambda?)
+- [핵심 Serverless 서비스](#핵심-Serverless-서비스)
+- [API Gateway 란?](#API-Gateway-란?)
+- [AWS Lambda 란?](#AWS-Lambda-란?)
 
 ---
 
-## Course Structure
-1. [What is Serverless Development](#What-is-Serverless-Development?)
-2. [Core Serverless Services](#Core-Serverless-Services)
-3. [Business Logic with **Lambda** and **API Gateway**](#Creating-an-API-with-API-Gateway-&-AWS-Lambda)
-4. Data Storage with **DynamoDB**
-5. Authentication with **Cognito**
-6. Content Delivery & Hosting with **S3**, **CloudFront** and **Route53**
+## Course 순서
+1. [Serverless 개발이란?](#Serverless-란?)
+2. [핵심 Serverless 서비스](#핵심-Serverless-서비스)
+3. [**Lambda** 와 **API Gateway** 을 사용하여 REST API 만들기](#Lambda-와-API-Gateway-을-사용하여-REST-API-만들기)
+4. **DynamoDB** 데이터 저장
+5. **Cognito** 사용자 인증
+6. **S3**, **CloudFront** 와 **Route53** 을 사용한 콘테츠 딜리버리 및 호스팅
 
 ---
 
@@ -55,7 +55,7 @@ Microsoft Azure, Google Cloud Platform...
 
 ---
 
-## Core Serverless Services
+## 핵심 Serverless 서비스
 
 ![Which Services Do We Need?](image/WhichServicesDoWeNeed.png)
 
@@ -76,15 +76,15 @@ Microsoft Azure, Google Cloud Platform...
 
 ---
 
-## Creating an API with API Gateway & AWS Lambda
+## Lambda 와 API Gateway 을 사용하여 REST API 만들기
 
-## What is API Gateway?
+## API Gateway 란?
 ![How it works](image/HowItWorks.png)
 
 - API Gateway **Overview** - https://aws.amazon.com/api-gateway
 - API Gateway **Developer Documentation** - https://aws.amazon.com/documentation/apiga
 
-## What is AWS Lambda?
+## AWS Lambda 란?
 
 On-demand Computing
 
