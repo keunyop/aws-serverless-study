@@ -104,17 +104,13 @@ Microsoft Azure Functions, Google Cloud Platform Functions...
 - DynamoDB
 - Cognito
 
-### Example - Amazon S3 웹 사이트를 위한 서버 없는 백엔드 아키텍처
+### Example - Amazon S3 웹 사이트를 위한 Serverless 백엔드 아키텍처
 
 ![Serverless Amazon S3](image/serverless-amazon-s3.png)
 
-### Example - 모바일 앱을 위한 서버 없는 아키텍처
+### Example - 모바일 앱을 위한 Serverless 아키텍처
 
 ![Serverless Moblie](image/serverless-mobile.png)
-
-### Example - 마이크로서비스를 위한 서버 없는 백엔드 아키텍처
-
-![Serverless Microservices](image/serverless-microservices.png)
 
 
 ### For more information...
