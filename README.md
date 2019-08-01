@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-- [Course 순서](#Course-순서)
+- [순서](#순서)
 - [Serverless 란?](#Serverless-란?)
 - [Why AWS?](#Why-AWS?)
 - [핵심 Serverless 서비스](#핵심-Serverless-서비스)
@@ -23,7 +23,7 @@
 
 ## Serverless 란?
 
-> - **운영상의 책임**을 클라우드 컴퓨팅 제공업체에게 전환하여 민첩성과 혁신을 높일 수 있도록 하는 **클라우드의 네이티브 아키텍처**
+> - **운영상의 (~~책임~~) 관리**를 클라우드 컴퓨팅 제공업체에게 전환하여 민첩성과 혁신을 높일 수 있도록 하는 **클라우드의 네이티브 아키텍처**
 > - **서버를 고려하지 않고** 애플리케이션과 서비스를 구축하고 실행
 > - 서버 패치 적용, 운영 체제 유지 관리 및 용량 프로비저닝과 같은 **인프라 관리**
 > - 애플리케이션을 고가용성으로 실행하고 확장하는 데 필요한 모든 사항이 **자동으로 처리**
@@ -36,7 +36,6 @@
 ![Traditional Web Hosting](image/TraditionalWebHosting.png)
 
 > ※ **단점**
-> - Re-invent the Wheel
 > - 서버가 사용 되지 않을때도 항상 살아있고 대기중이어야 한다.
 > - 적정 성능/크기의 서버를 예측하기 힘들다. (너무 과하거나 모자르거나..)
 > - OS와 소프트웨어의 주기적인 update가 필요하다.
@@ -50,8 +49,8 @@
 
 ### ■ PaaS (Platform as a Service)
 
-> - AWS Elastic Beanstalk, Azure App Services 등
 > - IaaS에서 한번 더 추상화되어 런타임까지 제공
+> - AWS Elastic Beanstalk, Azure App Services 등
 > - 사용자는 애플리케이션만 배포, 바로 구동 할 수 있음
 > - 쉬운 Auto Scaling, Load Balancing
 
@@ -81,7 +80,7 @@
 > **Use Case**
 > - 서비스의 백엔드
 > - 주기적인 크롤링
-> - 파일 업로드시 화징/사이즈 등 파일 처리
+> - 파일 업로드시 화질/사이즈 등 파일 처리
 > - 로그 분석 / 실시간 모니터링 등 
 
 ## Why AWS?
@@ -99,11 +98,24 @@ Microsoft Azure Functions, Google Cloud Platform Functions...
 
 ![Which Services Do We Need?](image/WhichServicesDoWeNeed.png)
 
-### For Back-end...
+### 백엔드
 - API Gateway
 - Lambda
 - DynamoDB
 - Cognito
+
+### Amazon S3 웹 사이트를 위한 서버 없는 백엔드 아키텍처 예제
+
+![Serverless Amazon S3](image/serverless-amazon-s3.png)
+
+### 모바일 앱을 위한 서버 없는 아키텍처 예제
+
+![Serverless Moblie](image/serverless-mobile.png)
+
+### 마이크로서비스를 위한 서버 없는 백엔드 아키텍처 예제
+
+![Serverless Microservices](image/serverless-microservices.png)
+
 
 ### For more information...
 - S3 - https://aws.amazon.com/s3/?nc2=h_m1
