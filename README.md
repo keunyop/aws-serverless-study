@@ -14,7 +14,7 @@
 ## 순서
 1. [Serverless 란?](#Serverless-란?)
 2. [핵심 Serverless 서비스](#핵심-Serverless-서비스)
-3. [**API Gateway** 와 **Lambda** 를 사용하여 REST API 만들기](#API-Gateway-와-Lambda-를-사용하여-REST-API-만들기)
+3. [**API Gateway** 와 **Lambda**를 사용하여 REST API 만들기](#API-Gateway-와-Lambda-를-사용하여-REST-API-만들기)
 4. **DynamoDB** 데이터 저장
 5. **Cognito** 사용자 인증
 6. **S3**, **CloudFront** 와 **Route53** 을 사용한 콘테츠 딜리버리 및 호스팅
